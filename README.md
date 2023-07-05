@@ -1,14 +1,14 @@
-# Código de conducta Gophers-latam
+# Código de conducta **Gophers LATAM**
 
 ## Introducción
 
-Gophers-Latam asume de manera decidida un rol positivo hacia las personas que construyen nuestra comunidad, así como a la sociedad a la que ésta pertenece.
+**Gophers LATAM** asume de manera decidida un rol positivo hacia las personas que construyen nuestra comunidad, así como a la sociedad a la que ésta pertenece.
 Si bien nuestros valores guían nuestro comportamiento, también tenemos políticas estrictas. En ellas se establecen nuestras obligaciones como miembros de la comunidad y se definen las reglas de conducta, que se aplican a todos.
 Este documento tiene la misión de reforzar y hacer cumplir las actitudes y comportamientos humanos que impulsamos, y un llamado a nuestros miembros que va más allá de hacer llegar un mensaje. Es un llamado a cumplirlo y difundirlo entre quienes participen en la actividad de la comunidad. 
 
 ## Declaración
 
-Gophers-Latam es un espacio donde se promueve una experiencia libre de acoso para todos, independientemente del género, identidad y expresión de género, discapacidad, apariencia física, tamaño corporal, raza, edad o religión. No toleramos acoso de o entre miembros de la comunidad en ninguna forma que este pueda presentarse. Quienes violen esta declaración pueden ser sancionados con la expulsión de la comunidad a discreción de las personas responsables.
+**Gophers LATAM** es un espacio donde se promueve una experiencia libre de acoso para todos, independientemente del género, identidad y expresión de género, discapacidad, apariencia física, tamaño corporal, raza, edad o religión. No toleramos acoso de o entre miembros de la comunidad en ninguna forma que este pueda presentarse. Quienes violen esta declaración pueden ser sancionados con la expulsión de la comunidad a discreción de las personas responsables.
 
 Acoso incluye, pero no está limitado a:
 
@@ -48,7 +48,7 @@ Promovemos el uso de lenguaje inclusivo y acogedor
 
 
 
-Este código de conducta aplica a todos los canales que la comunidad Gophers-Latam defina como medios de participación y producción contenido oficiales. Como el [servidor en Discord](https://discord.io/gophers-latam).
+Este código de conducta aplica a todos los canales que la comunidad **Gophers LATAM** defina como medios de participación y producción contenido oficiales. Como el [servidor en Discord](https://discord.io/gophers-latam).
 
 
 ## Responsables
